@@ -4,9 +4,6 @@
 </p>
 
 <!-- ================= GIF ================= -->
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
-</p>
 
 <!-- ================= TYPING ================= -->
 <p align="center">
@@ -34,27 +31,8 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">⚡ Technologies I work with</p>
-
-<br/>
-
-<p align="center"><b>💻 Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
-</p>
-
-<br/>
-
-<p align="center"><b>🌐 Web Development</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,mongodb,mysql" />
-</p>
-
-<br/>
-
-<p align="center"><b>🧠 Data Science & ML</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,react,nodejs,flask,mongodb,mysql,tensorflow" />
 </p>
 
 <p align="center">
@@ -62,12 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" />
-</p>
-
-<br/>
-
-<p align="center"><b>📊 Tools</b></p>
-<p align="center">
   <img src="https://img.icons8.com/color/48/power-bi.png" height="45" />
   <img src="https://img.icons8.com/color/48/tableau-software.png" height="45" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="45" />
@@ -131,32 +103,6 @@
 
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prer26&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prer26&theme=tokyonight" />
-</p>
-
----
-
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🥈%202nd%20Place-Python%20Coding%20Competition-00F7FF?style=for-the-badge" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prer26&theme=tokyo-night" />
-</p>
 
 ---
 
