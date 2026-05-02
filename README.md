@@ -3,11 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Hey,%20I'm%20Prer&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20%7C%20Data%20Science%20%7C%20Full%20Stack&descAlignY=55&descSize=18" />
 </p>
 
-<!-- ================= GIF ================= -->
-
 <!-- ================= TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Data+Scientist+🧠;Machine+Learning+Engineer;Full+Stack+Developer;Building+AI+Projects+🚀;Always+Learning+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Data+Scientist+🧠;Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+AI+Projects+🚀;Always+Learning+🔥" />
 </p>
 
 ---
@@ -17,7 +15,21 @@
 💡 Data Science enthusiast who loves turning data into insights  
 🚀 Building projects in Machine Learning, NLP & Full Stack  
 🧠 Exploring Deep Learning and real-world AI applications  
+🌍 Open Source Contributor  
 ⚡ Passionate about problem-solving and continuous learning  
+
+---
+
+## 🏆 Open Source Contributions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-PR%20Merged-success?style=for-the-badge&logo=github" />
+</p>
+
+### 🌟 Public APIs Repository
+- ✅ Added **DeepAI API** to the Machine Learning section  
+- 🔗 https://github.com/public-apis/public-apis/pull/5978  
+- 📌 Followed contribution guidelines and maintained structured documentation  
 
 ---
 
